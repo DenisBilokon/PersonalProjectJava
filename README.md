@@ -1,2 +1,2 @@
 # PersonalProjectJava
-Styudent grade project in java
+Student grade project in java
